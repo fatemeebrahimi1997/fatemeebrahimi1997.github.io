@@ -29,16 +29,16 @@ svg {
 }
 
 #img1 {
-    background-image: url("https://3.bp.blogspot.com/-7kHsBSsoNVk/UrHGy8g1-MI/AAAAAAAAA4s/WFPGUkdfbvE/s640/Minneapolis2013_jamiepilgrim-1-39.jpg");
+    background-image: url("./photo2.jpg");
 
 }
 
 #img2 {
-    background-image: url("https://scontent.ford1-1.fna.fbcdn.net/hphotos-xfp1/t31.0-8/739684_4786073021898_1815477253_o.jpg");
+    background-image: url("./photo3.jpg");
 }
 
 #img3 {
-    background-image: url("https://3.bp.blogspot.com/-z6_8ecMh-LE/UpFbOOygBJI/AAAAAAAAAjc/vhNnRqbvWIg/s640/2013_kidsphotoshoot-94.jpg");
+    background-image: url("./photo4.jpg");
 }
 
 .cool-img {
